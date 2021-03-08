@@ -10,12 +10,6 @@
             "role": "Developer"
         }
     ],
-      "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/sync667/laravel-expirable"
-    }
-  ],
     "require": {
         "php": "^8.0",
         "alajusticia/laravel-expirable": "dev-master"
